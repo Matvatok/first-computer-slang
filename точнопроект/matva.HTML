@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="matvaa.CSS">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computer slang</title>
+</head>
+<body>
+    <div class="top">
+    <div class="header">
+        <div class="logo">
+        <span class="span-logo"><b>CS</b></span>
+    </div>
+        <div class="menu"></div>
+        <div class="logoo"><tt><b>Computer slang</b></tt></div>
+    </div>
+    <div class="asd"></div>
+<!--МЕНЮ-->
+
+<div class="Menuska">
+  <button class="poyavlenie" data-page="page.html">Появление</button>
+  <button class="gdenuzen" data-page="page2.html">Где нужен</button>
+  <button class="vliyanie" data-page="vliyanie.html">Влияние</button>
+  <button class="perevod" data-page="perevod.html">Перевод</button>
+</div>
+
+<script>
+  const buttons = document.querySelectorAll('.Menuska button');
+
+  buttons.forEach(button => {
+    button.addEventListener('click', function() {
+      const targetPage = this.dataset.page;
+      if (targetPage) {
+        window.location.href = targetPage;
+      }
+    });
+  });
+</script>
+
+<!--неМЕНЮ-->
+<!--Инфа-->
+<div class="text1">
+    <p>Все больше людей используют
+         компьютер в своей профессиональной деятельности
+         , в учебе, в быту и для развлечения. 
+        Знание компьютерного сленга сплачивает людей, 
+        облегчает реальное и виртуальное общение 
+        пользователей Интернета,
+        позволяет в сжатой форме обмениваться информацией
+        , экономя тем самым время и деньги. </p>
+</div>
+<div class="text2">
+    <p> 
+       <u> <b>Компьютерный сленг</b></u> - это специальный жаргон, используемый пользователями компьютеров
+         и интернета для обозначения технических терминов и понятий.В компьютерном сленге часто используются 
+        аббревиатуры и сокращения для обозначения различных программ, устройств и процессов.
+    </p>
+</div>
+<div class="photo1"><img src="file:///C:/Users/Alex/Desktop/точнопроект/i.jpg" alt=i.jpg></div>
+<div class="photo2"><img src="file:///C:/Users/Alex/Desktop/точнопроект/2111285.jpg" alt=2111285.jpg></div>
+<!--НеИнфа-->
+<div class="podval">
+   <b><tt><i> Связь по почте: gma52929@gmail.com </tt></i></b>
+</div>
+</body>
+</html>

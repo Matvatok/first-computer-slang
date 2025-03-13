@@ -1,0 +1,685 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.top
+{   
+    width: 100%;
+    height:100vh;
+    background-color: rgb(226, 194, 255);
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(90, 23, 153);
+    display: flex;
+    align-items: center;      
+}
+.logo
+{
+width: 120px;
+height: 100px;
+margin: 0 20px;
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+.span-logo
+{   
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.menu
+{   
+    display: flex;
+}
+.logoo
+{   
+    width: 160px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-left: 650px;
+    font-size: 20px;
+    color:aliceblue;
+}
+.Menuska
+{   
+    position: absolute;
+    background-color: rgb(90, 23, 153);
+    margin-left:5%;
+    margin-top:5%;
+    width: 10%;
+    height: 23%;
+    border-radius: 60px;
+}
+.poyavlenie
+{   
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 27%;
+    border:none;
+}
+.gdenuzen
+{   
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 27%;
+    border:none;
+}
+.vliyanie
+{   
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 30%;
+    border:none;
+}
+.perevod
+{   
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 30%;
+    border:none;
+}
+.text1
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.text2
+{   
+    margin-left: 20%;
+    margin-top: 150px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.photo1 
+{
+    position: absolute;
+    left: 1386px;
+    top: 200px;
+    bottom: 100%;
+}
+.photo2
+{   
+    position:absolute;
+    right: 0px;
+    bottom: 47px;
+}
+.podval
+{   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(90, 23, 153);
+    padding: 20px;
+    text-align: center;
+}
+button:hover 
+{
+    background-color: #DDA0DD;
+}
+
+
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.toptwo
+{   
+    width: 100%;
+    height:100vh;
+    background-color: rgb(226, 194, 255);
+}
+.headertwo
+{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(90, 23, 153);
+    display: flex;
+    align-items: center;      
+}
+.logotwo
+{
+width: 120px;
+height: 100px;
+margin: 0 20px;
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+.span-logotwo
+{   
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.menutwo
+{   
+    display: flex;
+}
+.logootwo
+{   
+    width: 160px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-left: 650px;
+    font-size: 20px;
+    color:aliceblue;
+}
+.Menuskatwo
+{   
+    position: absolute;
+    background-color: rgb(90, 23, 153);
+    margin-left:5%;
+    margin-top:5%;
+    width: 10%;
+    height: 23%;
+    border-radius: 60px;
+}
+.poyavlenietwo
+{   
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 27%;
+    border:none;
+    color: dimgrey;
+}
+.gdenuzentwo
+{   
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 27%;
+    border:none;
+}
+.vliyanietwo
+{   
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 30%;
+    border:none;
+}
+.perevodtwo
+{   
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 30%;
+    border:none;
+}
+.textt1
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.textt2
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.text3
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.podvall
+{   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(90, 23, 153);
+    padding: 20px;
+    text-align: center;
+}
+.changeable-text
+{
+    color:white
+}
+.changeable-text:hover
+{
+    color:darkorchid
+}
+
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.top3
+{   
+    width: 100%;
+    height:100vh;
+    background-color: rgb(226, 194, 255);
+}
+.header3
+{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(90, 23, 153);
+    display: flex;
+    align-items: center;      
+}
+.logo3
+{
+width: 120px;
+height: 100px;
+margin: 0 20px;
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+.span-logo3
+{   
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.menu3
+{   
+    display: flex;
+}
+.logoo3
+{   
+    width: 160px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-left: 650px;
+    font-size: 20px;
+    color:aliceblue;
+}
+.Menuska3
+{   
+    position: absolute;
+    background-color: rgb(90, 23, 153);
+    margin-left:5%;
+    margin-top:5%;
+    width: 10%;
+    height: 23%;
+    border-radius: 60px;
+}
+.poyavlenie3
+{   
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 27%;
+    border:none;
+}
+.gdenuzen3
+{   
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 27%;
+    border:none;
+    color: dimgrey;
+}
+.vliyanie3
+{   
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 30%;
+    border:none;
+}
+.perevod3
+{   
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 30%;
+    border:none;
+}
+
+
+.podvalll
+{   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(90, 23, 153);
+    padding: 20px;
+    text-align: center;
+}
+.texttt1
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.texttt2
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.texttt3
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.phottto
+{
+    position: absolute;
+    left: 1450px;
+    top: 300px;
+    bottom: 100%;
+}
+.changeable-text
+{
+    color:white
+}
+.changeable-text:hover
+{
+    color:darkorchid
+}
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.top4
+{   
+    width: 100%;
+    height:100vh;
+    background-color: rgb(226, 194, 255);
+}
+.header4
+{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(90, 23, 153);
+    display: flex;
+    align-items: center;      
+}
+.logo4
+{
+width: 120px;
+height: 100px;
+margin: 0 20px;
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+.span-logo4
+{   
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.menu4
+{   
+    display: flex;
+}
+.logoo4
+{   
+    width: 160px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-left: 650px;
+    font-size: 20px;
+    color:aliceblue;
+}
+
+.Menuska4
+{   
+    position: absolute;
+    background-color: rgb(90, 23, 153);
+    margin-left:5%;
+    margin-top:5%;
+    width: 10%;
+    height: 23%;
+    border-radius: 60px;
+}
+.poyavlenie4
+{   
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 27%;
+    border:none;
+}
+.gdenuzen4
+{   
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 27%;
+    border:none;
+}
+.vliyanie4
+{   
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 30%;
+    border:none;
+    color: dimgrey;
+}
+.perevod4
+{   
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 30%;
+    border:none;
+}
+.text4
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.textt4
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.texttt4
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.photka
+{
+    position: absolute;
+    left: 1500px;
+    top: 350px;
+    bottom: 125%;
+}
+.podvallll
+{   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(90, 23, 153);
+    padding: 20px;
+    text-align: center;
+}
+
+.changeable-text
+{
+    color:white
+}
+.changeable-text:hover
+{
+    color:darkorchid
+}
+body
+
+{
+    margin: 0;
+    padding: 0;
+}
+.top5
+{   
+    width: 100%;
+    height:100vh;
+    background-color: rgb(226, 194, 255);
+}
+.header5
+{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(90, 23, 153);
+    display: flex;
+    align-items: center;      
+}
+.logo5
+{
+width: 120px;
+height: 100px;
+margin: 0 20px;
+display: flex;
+align-items: center;
+color: aliceblue;
+
+}
+.span-logo5
+{   
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+
+}
+.menu5
+{   
+    display: flex;
+}
+.logoo5
+{   
+    width: 160px;
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-left: 650px;
+    font-size: 20px;
+    color:aliceblue;
+}
+
+
+.Menuska5
+{   
+    position: absolute;
+    background-color: rgb(90, 23, 153);
+    margin-left:5%;
+    margin-top:5%;
+    width: 10%;
+    height: 23%;
+    border-radius: 60px;
+}
+.text5
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.texxt5
+{   
+    margin-left: 20%;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: lightgray;
+    width: 1000px
+}
+.podvalllll
+{   
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(90, 23, 153);
+    padding: 20px;
+    text-align: center;
+}
+.poyavlenie4
+{   
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 27%;
+    border:none;
+}
+.gdenuzen5
+{   
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 27%;
+    border:none;
+}
+.vliyanie5
+{   
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 30%;
+    border:none;
+}
+.perevod5
+{   
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 30%;
+    border:none;
+    color: dimgrey;
+}
+.changeable-text
+{
+    color:white
+}
+.changeable-text:hover
+{
+    color:darkorchid
+}
